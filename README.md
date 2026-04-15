@@ -1,19 +1,40 @@
-Zmena hesla používateľa
+create task
 
-![popis](images/change_password.png)
+![popis](images/create_task.png)
 
-Úprava profilu používateľa
+create task - nemám oprávnenie
 
-![popis](images/update_profile.png)
+![popis](images/nopolicy_create_task.png)
 
-Odhlásenie zo všetkých zariadení
+komentár k mojmu tasku
 
-![popis](images/logout_all.png)
+![popis](images/komentar_k_mojmu_tasku.png)
 
-Bežný používateľ
+uloženie profilovej fotky
 
-![popis](images/no_admin_show.png)
+![popis](images/pfp.png)
 
-Pokus o mazanie kategórie bez admin práv
+vymazanie profilovej fotky
 
-![popis](images/no_admin_delete.png)
+![popis](images/delete_pfp.png)
+
+nemame prilohy
+
+![popis](images/nemame_prilohy.png)
+
+som premium - prilohy
+
+![popis](images/premium_prilohy.png)
+
+niesom premium
+
+![popis](images/niesom_premium.png)
+
+link
+
+![popis](images/link.png)
+
+delete prilohy
+
+![popis](images/delete_priloha.png)
+
